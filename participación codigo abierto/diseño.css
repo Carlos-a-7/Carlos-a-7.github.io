@@ -22,12 +22,11 @@ body{
     position: fixed;
 }
 .cuadrotexto{
-    padding: 10px 0px 10px 0px;
+    padding: 0px 0px 0px 0px;
     width: 100%;
-    margin-left: 10px;
+    margin: 80px 100px 100px -8px;
     background-color: #ffe23e;
     color: black;
-    text-align: center;
-    font-size: xx-large;
+    text-align: justify;
     position: fixed;
 }
