@@ -12,12 +12,12 @@ body{
     color: white;
 }
 .cuadro{
-    padding: 100px,20px,100px,20px;
-    width: 100%;
-    margin-left:-8px;
-    margin-top:-8px;
-    align-items: center;
+    padding: 20px 20% 20px 20%;
+    width: 20%;
+    margin: 10px 20% 10px 20%;
+    background-color: #ffcd71;
+    color: black;
+    text-align: center;
+    text-size-adjust: 10px;
     position: fixed;
-    background-color:#ffcd71;
-    color: white;
 }
