@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(216, 72, 72);
+    background-color: rgb(255, 255, 255);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .rectangulo{
@@ -8,6 +8,16 @@ body{
     margin-left:-8px;
     margin-top:-8px;
     position: fixed;
-    background-color:black;
+    background-color:rgb(244, 247, 68);
+    color: white;
+}
+.cuadro{
+    padding: 100px,20px,100px,20px;
+    width: 100%;
+    margin-left:-8px;
+    margin-top:-8px;
+    align-items: center;
+    position: fixed;
+    background-color:#ffcd71
     color: white;
 }
