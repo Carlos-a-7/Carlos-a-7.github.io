@@ -5,6 +5,7 @@ body{
 .rectangulo{
     padding-bottom: 200px;
     width: 100%;
+    margin-right:-8px
     position: fixed;
     background-color:black;
 }
