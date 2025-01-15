@@ -2,7 +2,9 @@ body{
     background-color: rgb(216, 72, 72);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-.cuadro{
-    border-bottom: 200px;
+.rectangulo{
+    padding-bottom: 200px;
+    width: 100%;
+    position: fixed;
     background-color:black;
 }
