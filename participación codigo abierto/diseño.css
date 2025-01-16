@@ -22,7 +22,7 @@ body{
     position: fixed;
 }
 .cuadrotexto{
-    padding: 0px 0px 2% 0px;
+    padding: 0px 0px 2% 10px;
     width: 25%;
     margin: 80px 100px 100px -8px;
     background-color: #ffe23e;
