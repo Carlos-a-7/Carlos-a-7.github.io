@@ -33,8 +33,8 @@ body{
 }
 .linea {
     width: 100%;
-    height: 5px;
-    margin-top: 340px;
+    height: 100px;
     background-color: #ff0000;
-    margin: 20px 0;
+    margin: 380px 0px 0px -8px;
+    position: fixed;
 }
