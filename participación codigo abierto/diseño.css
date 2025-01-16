@@ -30,7 +30,7 @@ body{
     text-align: justify;
     position: fixed;
     height: 250px;
-    border: 3px;
+    border: solid;
     border-color: black;
 }
 .linea {
