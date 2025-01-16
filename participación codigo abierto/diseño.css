@@ -31,3 +31,9 @@ body{
     position: fixed;
     height: 500px;
 }
+.linea {
+    width: 100%;
+    height: 5px;
+    background-color: #ff0000;
+    margin: 20px 0;
+}
